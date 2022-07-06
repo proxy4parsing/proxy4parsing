@@ -1,16 +1,27 @@
-### Hi there 👋
+# Proxy-List
+Free proxy list UPDATED EVERY 20 min
 
-<!--
-**proxy4parsing/proxy4parsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Download
+```bash
+# Download and save to local file `http.txt` with format `IP:PORT`
+curl -sSf "https://raw.githubusercontent.com/proxy4parsing/proxy-list/main/http.txt" > http.txt
+```
+#
+**List of projects for parsing proxies:**
+- [t.me/proxy4parsing](http://t.me/proxy4parsing)
+- ~[awm](http://awmproxy.net)~
+- [hideme](http://hidemy.name/en)
+- [spys](http://spys.me/proxy.txt)
+- ~[proxiesfine](http://t.me/proxiesfine)~
+- ~[proxyz](http://t.me/proxyz_ru_bot)~
+
+
+
+
+#
+
+
+telegram channel https://t.me/proxy4parsing
